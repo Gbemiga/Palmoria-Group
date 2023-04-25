@@ -21,7 +21,8 @@ Springforth University (SpU) is planning to set up a foodbank on campus in colla
 
 Here is a PowerBi Dashboard report that I built to further visualize the insights derived from the survey
 
-![](spu.jpg)
+![spu](https://user-images.githubusercontent.com/109863083/234143502-632df2b9-a47e-45e8-921e-aa3ecafaf634.jpg)
+
 
 ## Summary of Findings
 
