@@ -26,7 +26,7 @@ Here is a PowerBi Dashboard report that I built to further visualize the insight
 
 
 ## Key Insights
-1. Gender distribution: There were more female respondents than male respondents, particularly in the 21-30 age range.
+1. #### Gender distribution: There were more female respondents than male respondents, particularly in the 21-30 age range.
 2. Living arrangements: A majority of respondents lived off-campus, which could impact their ability to afford food due to transportation expenses.
 3. Affordability of a balanced diet: The majority of respondents reported struggling to afford a balanced diet, with "Sometimes true" being selected more frequently than "Often true."
 4. Skipping meals: A large proportion of students reported skipping meals, particularly final year students.
@@ -36,7 +36,7 @@ Here is a PowerBi Dashboard report that I built to further visualize the insight
 
 ## Recommendations
 
-Based on the insights derived from the analysis, it is greatly recommended that the institution take steps to address food insecurity among students. and this could be done by setting up the already proposed campus food bank to provide students with access to nutritious food options, providing financial assistance to help cover the cost of food and transportation, and increasing awareness and education about nutrition and healthy eating habits.
+Based on the insights derived from the analysis, it is greatly recommended that the institution take steps to address food insecurity among students and this could be done by setting up the already proposed campus food bank to provide students with access to nutritious food options, providing financial assistance to help cover the cost of food and transportation, and increasing awareness and education about nutrition and healthy eating habits.
 
 The fact that a significant proportion of students reported borrowing money and engaging in business activities to support themselves in school also highlights the need for the institution to provide more financial assistance to students who are struggling to make ends meet. This could include offering more scholarships and grants, as well as providing students with access to financial planning and budgeting resources.
 
