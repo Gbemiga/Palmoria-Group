@@ -1,10 +1,9 @@
-# Springforth University Foodbank Analysis (Still in Progress)
+# Springforth University Foodbank Analysis
 ![](studentdona.jpg)
 
 ## Overview
 
-1. Github: This contains all the images used in this project
-
+1. SPU-Foodbank.csv: This contains the raw data gathered from the survey
 2. Read.me: This is the introductry part of the project. it provides all the information of the project.
 
 
