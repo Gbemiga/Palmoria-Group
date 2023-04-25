@@ -26,7 +26,7 @@ Here is a PowerBi Dashboard report that I built to further visualize the insight
 
 
 ## Key Insights
-1. #### Gender distribution: There were more female respondents than male respondents, particularly in the 21-30 age range.
+1. #### Gender distribution:# There were more female respondents than male respondents, particularly in the 21-30 age range.
 2. Living arrangements: A majority of respondents lived off-campus, which could impact their ability to afford food due to transportation expenses.
 3. Affordability of a balanced diet: The majority of respondents reported struggling to afford a balanced diet, with "Sometimes true" being selected more frequently than "Often true."
 4. Skipping meals: A large proportion of students reported skipping meals, particularly final year students.
